@@ -1,8 +1,8 @@
 
     
-#include <iostream>
+#include<iostream>
 using namespace std;
-int main ()
+int main()
 {
     system ("cls");
     int valpertama, valkedua, digit1,digit2, validasi1, validasi2 , checksum;
