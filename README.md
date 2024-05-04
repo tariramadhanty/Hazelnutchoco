@@ -1,18 +1,13 @@
+
+    
+@@ -0,0 +1,58 @@
 #include <iostream>
-
 using namespace std;
-
-
 int main ()
 {
-    
     system ("cls");
-    
-    
     int valpertama, valkedua, digit1,digit2, validasi1, validasi2 , checksum;
-    
     string tipekartu;
-    
     long long int nomorkartu, pembagi, pengelang;
 
     cout<<"Input Nomor Kartu: ";
@@ -63,4 +58,5 @@ int main ()
     cout<<"Checksum: "<<checksum<<endl;
 
     return 0;
-}
+}       
+   
